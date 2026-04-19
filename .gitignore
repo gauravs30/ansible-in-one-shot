@@ -27,3 +27,6 @@ notes/
 .DS_Store
 .claude/
 terraform/keys/terra-key-ansible
+.terraform/
+terraform.tfstate
+*.pem
